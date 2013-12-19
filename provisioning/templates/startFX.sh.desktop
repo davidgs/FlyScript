@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Exec=/home/vagrant/bin/startFX.sh
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name[en_US]=FX
+Name=FX
+Comment[en_US]=Start Firefox after delay
+Comment=Start Firefox after delay

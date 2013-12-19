@@ -1,0 +1,12 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Icon[en_US]=gnome-panel-launcher
+Name[en_US]=Restart Portal
+Exec=/home/vagrant/bin/portal_script.sh restart
+Comment[en_US]=Restart SteelScript Portal Server
+Name=Restart Portal
+Comment=Restart SteelScript Portal Server
+Icon=gnome-panel-launcher

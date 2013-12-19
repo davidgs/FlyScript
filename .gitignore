@@ -1,0 +1,9 @@
+*~
+
+*.pyc
+*.swp
+.DS_Store
+.idea/
+
+.vagrant
+vagrant_ansible_inventory_default

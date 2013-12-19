@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Exec=/home/vagrant/bin/startDR.sh
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name[en_US]=DrPython
+Name=DrPython
+Comment[en_US]=Start DrPython on Login
+Comment=Start DrPython on Login

@@ -1,0 +1,21 @@
+<!DOCTYPE Menu
+  PUBLIC '-//freedesktop//DTD Menu 1.0//EN'
+  'http://standards.freedesktop.org/menu-spec/menu-1.0.dtd'>
+<Menu>
+	<Name>Applications</Name>
+	<MergeFile type="parent">/etc/xdg/menus/applications.menu</MergeFile>
+	<DefaultLayout inline="false"/>
+	<Menu>
+		<Name>alacarte-made</Name>
+		<Directory>alacarte-made.directory</Directory>
+		<Include>
+			<Filename>alacarte-made.desktop</Filename>
+		</Include>
+		<Include>
+			<Filename>alacarte-made-1.desktop</Filename>
+		</Include>
+		<Include>
+			<Filename>alacarte-made-2.desktop</Filename>
+		</Include>
+	</Menu>
+</Menu>

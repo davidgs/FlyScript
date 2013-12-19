@@ -1,0 +1,10 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Type=Directory
+Icon[en_US]=folder
+Name[en_US]=SteelScript
+Comment[en_US]=SteelScript Portal Controls
+Name=Flyscript
+Comment=SteelScript Portal Controls
+Icon=folder
